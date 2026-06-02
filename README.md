@@ -1,82 +1,152 @@
 <h1 align="center">Hi 👋, I'm Boyina Akhil</h1>
-<h3 align="center">MERN Stack Developer | AI/ML Enthusiast | DSA Explorer</h3>
+
+<h3 align="center">
+Software Engineering Aspirant | Backend Development | MERN Stack | LeetCode 2000+ | Building Scalable Applications
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;AI+%26+ML+Learner;Passionate+Coder;Problem+Solver&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Enthusiast;Backend+Developer;MERN+Stack+Developer;LeetCode+2000%2B;Problem+Solver&center=true&width=600&height=45">
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on full-stack web applications using the **MERN stack**
-- 🤖 Exploring the world of **Artificial Intelligence** and **Machine Learning**
-- 🔍 Focused on improving my **Data Structures & Algorithms (DSA)** skills
-- 🌱 Always learning and open to new technologies and collaborations
+* 🎓 B.Tech Computer Science Student at Gayatri Vidya Parishad College of Engineering
+* 💻 Passionate about Software Engineering and Backend Development
+* 🚀 Building scalable web applications using Node.js, Express.js, MongoDB, and React
+* 🧩 Strong focus on Data Structures, Algorithms, and Problem Solving
+* 🌱 Currently learning System Design, Backend Architecture, and Cloud Fundamentals
+* 🤝 Open to internship opportunities and collaborative projects
 
 ---
 
-### 💻 Tech Stack
+## 🏆 Achievements
+
+* 🚀 LeetCode Rating: **2000+**
+* 🧩 Solved **500+ DSA Problems**
+* ⭐ CodeChef **3★ Programmer**
+* 🏅 Secured **4th Place** in SmartBridge Hackathon 2025
+* 💻 Built multiple full-stack applications using the MERN Stack
+
+---
+
+## 🚀 Featured Projects
+
+### 🍽️ HungerHub – Smart Meal Subscription Platform
+
+* JWT Authentication
+* Subscription Management
+* Wallet System
+* Revenue Analytics Dashboard
+* RESTful APIs
+* MongoDB Database Design
+
+**Tech Stack:** Node.js, Express.js, MongoDB, React.js, JWT
+
+---
+
+### 🎙️ AI Voice Assistant
+
+* Google Gemini Integration
+* Intent Recognition
+* Browser Automation
+* Dynamic Command Execution
+* Real-Time Interactions
+
+**Tech Stack:** MERN Stack, Gemini API
+
+---
+
+### 📌 Track It Back
+
+* Lost & Found Management Platform
+* Secure Authentication
+* Community Search
+* Real-Time Updates
+
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js
+
+---
+
+### 🛒 FetchKart
+
+* Modern E-Commerce Platform
+* Authentication & Authorization
+* Product Management
+* Shopping Cart
+* Order Processing
+
+**Tech Stack:** MERN Stack
+
+---
+
+## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,redux,reactrouter,nodejs,express,mongodb,mongoose,cloudinary,firebase,python,numpy,pandas,rest,jwt,socketio,cpp,git,github,vscode,netlify,vercel,render,railway,githubactions" />
-
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,nodejs,express,mongodb,react,html,css,tailwind,git,github,postman,vscode" />
 </p>
 
 ---
 
-### 🚀 Currently Learning
+## 📚 Currently Learning
 
-- 🌐 **Advanced React & Next.js**
-- 🧠 **AI/ML concepts** using Python (Pandas, NumPy, Scikit-Learn)
-- 🧩 **System Design & Architecture**
-- 🧮 Mastering **DSA** for problem-solving & interviews
-
----
-
-### 🧠 Interests
-
-- 🤖 AI, ML, and Deep Learning
-- 🕸️ Full-stack Web Development
-- 🎯 Competitive Programming
-- 📱 Building real-world SaaS apps and tools
+* System Design Fundamentals
+* Backend Architecture
+* Scalable API Development
+* Cloud Fundamentals
+* Advanced Data Structures & Algorithms
 
 ---
 
-### 🌐 Let's Connect
+## 🎯 Areas of Interest
+
+* Backend Development
+* Software Engineering
+* Data Structures & Algorithms
+* Competitive Programming
+* Full Stack Development
+* Scalable Web Applications
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/akhil-boyina" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:akhilboyina2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/Boyinaakhil"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/akhil-boyina" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:akhilboyina2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+
+  <a href="https://github.com/Boyinaakhil">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://leetcode.com/u/Akhil_boyina1189/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boyinaakhil&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boyinaakhil&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Boyinaakhil&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boyinaakhil&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boyinaakhil&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boyinaakhil&theme=tokyonight"/>
 </p>
 
 ---
 
-### 💬 Community & Engagement
+## 💡 Quote
 
-- 📢 Active on GitHub Discussions, LinkedIn tech threads, and coding forums
-- 🧑‍🏫 Helping juniors and peers through open-source projects & guidance
-- 🌱 I believe in **learning in public** and contributing wherever I can
+> "Consistency in learning, building, and problem solving is the foundation of great software engineering."
 
----
-
-### 📌 Fun Fact
-
-> "Code is like humor. When you have to explain it, it’s bad."
-
----
-
+⭐ Always learning, building, and solving problems.
