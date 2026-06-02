@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Boyina Akhil</h1>
 
 <h3 align="center">
-Software Engineering Aspirant | Backend Development | MERN Stack | LeetCode 2000+ | Building Scalable Applications
+Software Engineering Aspirant | Backend Developer | LeetCode 2000+ | CodeChef 3★ | MERN Stack
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Enthusiast;Backend+Developer;MERN+Stack+Developer;LeetCode+2000%2B;Problem+Solver&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Enthusiast;Backend+Developer;LeetCode+2000%2B;MERN+Stack+Developer;Problem+Solver&center=true&width=600&height=45">
 </p>
 
 ---
@@ -14,7 +14,7 @@ Software Engineering Aspirant | Backend Development | MERN Stack | LeetCode 2000
 
 * 🎓 B.Tech Computer Science Student at Gayatri Vidya Parishad College of Engineering
 * 💻 Passionate about Software Engineering and Backend Development
-* 🚀 Building scalable web applications using Node.js, Express.js, MongoDB, and React
+* 🚀 Building scalable web applications using Node.js, Express.js, MongoDB, and React.js
 * 🧩 Strong focus on Data Structures, Algorithms, and Problem Solving
 * 🌱 Currently learning System Design, Backend Architecture, and Cloud Fundamentals
 * 🤝 Open to internship opportunities and collaborative projects
@@ -52,7 +52,7 @@ Software Engineering Aspirant | Backend Development | MERN Stack | LeetCode 2000
 * Intent Recognition
 * Browser Automation
 * Dynamic Command Execution
-* Real-Time Interactions
+* Real-Time User Interaction
 
 **Tech Stack:** MERN Stack, Gemini API
 
@@ -135,12 +135,8 @@ Software Engineering Aspirant | Backend Development | MERN Stack | LeetCode 2000
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boyinaakhil&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boyinaakhil&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boyinaakhil&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Boyinaakhil&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boyinaakhil&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
