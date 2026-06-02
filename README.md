@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Boyina Akhil</h1>
+<h1 align="center">Hi 👋, I'm Akhil Boyina</h1>
 
 <h3 align="center">
 Software Engineering Aspirant | Backend Developer | LeetCode 2000+ | CodeChef 3★ | MERN Stack
@@ -10,14 +10,14 @@ Software Engineering Aspirant | Backend Developer | LeetCode 2000+ | CodeChef 3�
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 * 🎓 B.Tech Computer Science Student at Gayatri Vidya Parishad College of Engineering
-* 💻 Passionate about Software Engineering and Backend Development
-* 🚀 Building scalable web applications using Node.js, Express.js, MongoDB, and React.js
+* 💻 Interested in Software Engineering and Backend Development
+* 🚀 Building scalable web applications using the MERN Stack
 * 🧩 Strong focus on Data Structures, Algorithms, and Problem Solving
-* 🌱 Currently learning System Design, Backend Architecture, and Cloud Fundamentals
-* 🤝 Open to internship opportunities and collaborative projects
+* 🌱 Currently learning System Design and Backend Architecture
+* 🤝 Open to Software Engineering Internship Opportunities
 
 ---
 
@@ -26,8 +26,8 @@ Software Engineering Aspirant | Backend Developer | LeetCode 2000+ | CodeChef 3�
 * 🚀 LeetCode Rating: **2000+**
 * 🧩 Solved **500+ DSA Problems**
 * ⭐ CodeChef **3★ Programmer**
-* 🏅 Secured **4th Place** in SmartBridge Hackathon 2025
-* 💻 Built multiple full-stack applications using the MERN Stack
+* 🏅 SmartBridge Hackathon 2025 – **4th Place**
+* 💻 Built multiple Full-Stack MERN Applications
 
 ---
 
@@ -40,19 +40,17 @@ Software Engineering Aspirant | Backend Developer | LeetCode 2000+ | CodeChef 3�
 * Wallet System
 * Revenue Analytics Dashboard
 * RESTful APIs
-* MongoDB Database Design
 
-**Tech Stack:** Node.js, Express.js, MongoDB, React.js, JWT
+**Tech Stack:** Node.js, Express.js, MongoDB, React.js
 
 ---
 
 ### 🎙️ AI Voice Assistant
 
-* Google Gemini Integration
+* Google Gemini API Integration
 * Intent Recognition
 * Browser Automation
 * Dynamic Command Execution
-* Real-Time User Interaction
 
 **Tech Stack:** MERN Stack, Gemini API
 
@@ -71,11 +69,10 @@ Software Engineering Aspirant | Backend Developer | LeetCode 2000+ | CodeChef 3�
 
 ### 🛒 FetchKart
 
-* Modern E-Commerce Platform
+* E-Commerce Platform
 * Authentication & Authorization
 * Product Management
-* Shopping Cart
-* Order Processing
+* Shopping Cart & Orders
 
 **Tech Stack:** MERN Stack
 
@@ -83,7 +80,7 @@ Software Engineering Aspirant | Backend Developer | LeetCode 2000+ | CodeChef 3�
 
 ## 💻 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,nodejs,express,mongodb,react,html,css,tailwind,git,github,postman,vscode" />
 </p>
 
@@ -99,21 +96,10 @@ Software Engineering Aspirant | Backend Developer | LeetCode 2000+ | CodeChef 3�
 
 ---
 
-## 🎯 Areas of Interest
-
-* Backend Development
-* Software Engineering
-* Data Structures & Algorithms
-* Competitive Programming
-* Full Stack Development
-* Scalable Web Applications
-
----
-
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/akhil-boyina" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/akhil-boyina">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
@@ -121,22 +107,26 @@ Software Engineering Aspirant | Backend Developer | LeetCode 2000+ | CodeChef 3�
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
 
-  <a href="https://github.com/Boyinaakhil">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-
   <a href="https://leetcode.com/u/Akhil_boyina1189/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+
+  <a href="https://github.com/Boyinaakhil">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Boyinaakhil&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boyinaakhil&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Boyinaakhil&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boyinaakhil&layout=compact&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boyinaakhil&theme=radical" height="165"/>
 </p>
 
 ---
